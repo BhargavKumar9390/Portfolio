@@ -8,8 +8,8 @@ export const Bio = {
     "https://drive.google.com/file/d/13LS9afB-WUzjiUaoJFxxBFocFJ2BG0TJ/view?usp=drive_link",
   linkedin: "http://www.linkedin.com/in/bhargavkumarkalvakuntla",
   twitter: "https://twitter.com/IconBharga3636",
-  insta: "https://www.instagram.com/bhargav_icon/",
-  facebook: "https://www.facebook.com/bhargav.kalvakuntla/",
+  insta:"https://www.instagram.com/bhargav_icon?igsh=aGp5NHVrdG1uYjI1&utm_source=qr",
+  facebook: "https://www.facebook.com/bhargav.kalvakuntla?mibextid=LQQJ4d",
 };
 
 export const skills = [
