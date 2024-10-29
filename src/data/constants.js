@@ -131,11 +131,11 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://1000logos.net/wp-content/uploads/2016/10/Bank-of-America-Logo.png",
-    role: "Full Stack Developer",
-    company: "Bank of America",
+    img: "https://logos-world.net/wp-content/uploads/2021/04/Capital-One-Logo-2016-Present.jpg",
+    role: " Java Full Stack Developer",
+    company: "Capital One",
     date: "July 2023 - Present",
-    desc: "Worked on scalable Java applications using Spring Boot and Hibernate, implementing Agile Scrum, integrating RESTful APIs, optimizing databases, and utilizing AWS for financial data processing with Apache Kafka..",
+    desc: "Enhanced credit card workflows with Java EE backend, React frontend, Spring Boot APIs, JPA for data access, fault-tolerant microservices, modular React components, Hibernate optimization, MySQL JSON handling, and AWS EC2 deployment for scalability.",
     skills: [
       "SpringBoot",
       "RESTful APIs",
@@ -155,11 +155,11 @@ export const experiences = [
 
   {
     id: 0,
-    img: "https://www.processunity.com/wp-content/uploads/2022/12/partner-hcl-logo.png",
-    role: "Junior Software Engineer",
-    company: "HCL Technologies",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoyDJJiS5tJKcPjcgy0v-DpwGRgUy3SERebQ&s",
+    role: "Java Full Stack Developer",
+    company: "Genpact",
     date: "June 2019 - July 2022",
-    desc: "Worked on full-stack projects with Java, C#, React, and Node.js, managing code with Git and deploying on AWS and Azure in Agile Scrum teams.",
+    desc: "Developed a web application with Spring Boot, Hibernate, React.js, MySQL, and Docker to analyze GitHub data, improving processing efficiency by 30% and reducing latency by 20%, with optimized queries, responsive frontends, RESTful APIs, scalable architectures, and seamless collaboration using GitHub and GitLab.",
     skills: [
       "React",
       "Redux",
